@@ -154,7 +154,7 @@ const RulerGenerator = () => {
     <div className="min-h-screen bg-gray-900 p-4">
       <div className="w-full max-w-6xl mx-auto bg-gray-800 rounded-lg border border-gray-700 shadow-xl">
         <div className="px-6 py-4 border-b border-gray-700">
-          <h2 className="text-xl font-semibold text-white">Gerador de Régua</h2>
+          <h2 className="text-xl font-semibold text-white">Gerador de Réguas Wise360</h2>
         </div>
         
         <div className="p-6 space-y-6">
